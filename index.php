@@ -4,7 +4,7 @@
 
     </head>
     <body>
-        <h1>Success!  The your_domain virtual host is working!</h1>
+        <h1>Success! </h1>
 
         <?php
             phpinfo();?>
